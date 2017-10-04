@@ -2,16 +2,13 @@
 # Requisitos
 * Node: sudo apt-get install nodejs-legacy
 * Gulp: sudo npm install -g gulp
-* Bower: sudo npm install -g bower
-* npm install --save-dev gulp-usemin
-* npm install --save-dev gulp-uglify
-* npm install gulp-sass --save-dev
-
-
-
 
 #Instalación
 * Instalación de dependencias: 
+* Entrar a /app y correr
 
 > `npm update`  
-> `bower update`  
+ 
+#Actualización de archivos
+* Entrar a /app
+* En consola inicia gulp
